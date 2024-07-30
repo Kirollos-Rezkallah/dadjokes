@@ -20,3 +20,7 @@ You can see the app live [here](https://kirollos-rezkallah.github.io/dadjokes/).
 - CSS
 - JavaScript
 - Axios (for making API requests)
+
+## Credits
+
+Crafted with passion by Kirollos Rezkallah. Explore more projects on [GitHub](https://github.com/Kirollos-Rezkallah) and drop me a message at [kiroomamdouh@gmail.com](mailto:kiroomamdouh@gmail.com) for instant connections and collaborations.

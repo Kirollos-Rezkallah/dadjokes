@@ -85,3 +85,42 @@ main {
 #jokes li:hover {
   background: #f1f2f6;
 }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  body {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+
+  #jokes {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.2em;
+  }
+
+  button {
+    padding: 8px 16px;
+    font-size: 0.9em;
+  }
+
+  body {
+    width: 90%;
+  }
+
+  #jokes {
+    width: 95%;
+  }
+}
